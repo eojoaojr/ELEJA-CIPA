@@ -1,2 +1,2 @@
 # ELEJA-CIPA
-Projeto pra um Eleição da Cipa
+Projeto pra umA Eleição da Cipa
